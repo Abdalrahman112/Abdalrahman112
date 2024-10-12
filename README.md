@@ -6,14 +6,6 @@
   - Anything programming realted, specialy **design patterns**.  :large_blue_diamond:
   - Anything related to embedded devices, Linux or preferably, **both**.  :computer:
 
-
-- I have recently finished my graduation project and I am still learning more about its topics like the following:
-  - **Yocto project**.
-  - **Adaptive AUTOSAR**.
-  - **Design patterns** and **data structure and algorithms** in C++
-  - **POSIX**
-  - **CMake**
-
 - I am currently looking for challenges and opportunities in the field of **embedded Linux**.
 
 - For any discussions on your mind or if you just want to help or be helped at learning some topic of my interests, contact me at:
